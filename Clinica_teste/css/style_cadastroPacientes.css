@@ -1,0 +1,50 @@
+
+.formulario {
+    width: 80%;
+    border: 3px solid black;
+    margin-left: 11%;
+    margin-top: 5%;
+    padding: 2%;
+    font-size: 20px;
+    color: white;
+    background-color: #0B3B2E!important;
+    opacity: 0.9;
+}
+
+
+.formulario:last-child {
+    position: relative;
+}
+hr {
+    background-color: white;
+}
+legend {
+    font-size: 30px;
+}
+
+.form-control {
+    font-size: 18px;
+    color:black;
+}
+.rodape {
+    width: 100%; 
+    float: left;
+    text-align: center;
+    background: #0B3B2E!important;
+    opacity: 0.9;
+    position: relative;
+    padding: 1% 0;
+}
+
+.social-icons a {
+    font-size: 1.5em; 
+    color: rgba(255,255,255,0.9); 
+    margin-right: 2%;
+}
+.social-icons a:hover {
+    color: rgba(0,0,0,0.9);
+}
+.copyright {
+    color: rgba(255,255,255, 0.9); 
+}
+
